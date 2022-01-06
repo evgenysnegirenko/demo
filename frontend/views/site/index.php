@@ -104,17 +104,18 @@
 						<div class="row mt-5">
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-security"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-home-circle"></span></div>
 									<div class="text">
 										<h3>Основные сведения</h3>
-										<p>Полное наименование учреждения образования	
-Муниципальное автономное дошкольное образовательное учреждение №219 «Детский сад комбинированного вида» >></p>
+										<p>Полное наименование учреждения образования
+                                                                                    Муниципальное автономное дошкольное образовательное учреждение №219 «Детский сад комбинированного вида» >></p>
+                                    
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-reading"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-command"></span></div>
 									<div class="text">
 										<h3>Структура и органы управления образовательной организацией</h3>
 										<p>Управление учреждением осуществляется в соответствии с действующим законодательством, Уставом МБДОУ.  Управление осуществляется  на основе сочетания принципов>></p>
@@ -123,7 +124,7 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-diploma"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-file-blank"></span></div>
 									<div class="text">
 										<h3>Документы</h3>
 										<p>Устав МАДОУ №219 "Детский сад комбинированного вида" >></p>
@@ -132,7 +133,7 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-education"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-group"></span></div>
 									<div class="text">
 										<h3>Образование</h3>
 										<p>Лицензия на осуществление образовательной деятельности МАДОУ №219 >></p>
@@ -142,7 +143,7 @@
 
                                                         <div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-education"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-timer"></span></div>
 									<div class="text">
 										<h3>Образовательные стандарты и требования</h3>
 										<p>Образовательная программа дошкольного образования разрабатывается в соответствии с федеральным государственным образовательным стандартом дошкольного образования >></p>
@@ -151,7 +152,7 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-jigsaw"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-face"></span></div>
 									<div class="text">
 										<h3>Руководство. Педагогический (научно-педагогический) состав</h3>
 										<p></p>
@@ -160,7 +161,7 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-kids"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-traffic-cone"></span></div>
 									<div class="text">
 										<h3>Материально-техническое обеспечение и оснащенность образовательного процесса</h3>
 										<p>Материально-техническое обеспечение образовательной деятельности соответствует требованиям к условиям организации присмотра, >> </p>
@@ -169,7 +170,7 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-jigsaw"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-donate-heart"></span></div>
 									<div class="text">
 										<h3>Стипендии и иные виды материальной поддержки</h3>
 										<p>Наличие и условия предоставления обучающимся стипендий >></p>
@@ -178,25 +179,17 @@
 							</div>                                                    
                                                         <div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-education"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-ruble"></span></div>
 									<div class="text">
 										<h3>Платные образовательные услуги</h3>
 										<p>Ежегодно с 01 октября по 30 апреля МАДОУ №219 "Детский сад >></p>
 									</div>
 								</div>
 							</div>
+
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-jigsaw"></span></div>
-									<div class="text">
-										<h3>Руководство. Педагогический (научно-педагогический) состав</h3>
-										<p></p>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-6">
-								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-kids"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-money"></span></div>
 									<div class="text">
 										<h3>Финансово-хозяйственная деятельность</h3>
 										<p>План финансово-хозяйственной деятельности МАДОУ 219 на 2021 год и плановый период >> </p>
@@ -205,7 +198,7 @@
 							</div>
                                                         <div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-education"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-refresh"></span></div>
 									<div class="text">
 										<h3>Вакантные места для приема (перевода)</h3>
 										<p>Вакантные места для приема (перевода) >></p>
@@ -214,7 +207,7 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-jigsaw"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-badge-check"></span></div>
 									<div class="text">
 										<h3>Доступная среда</h3>
 										<p>В учреждении оборудовано 13 групповых помещений. >></p>
@@ -223,7 +216,7 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="services-2 d-flex">
-									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-kids"></span></div>
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="bx bx-globe"></span></div>
 									<div class="text">
 										<h3>Международное сотрудничество</h3>
 										<p>Договоры с иностранными и (или) международными организациями по вопросам образования >> </p>

@@ -33,14 +33,18 @@ AppAsset::register($this);
 			    			<div class="icon bg-fifth mr-2 d-flex justify-content-center align-items-center"><span class="icon-map"></span></div>
 						    <span class="text">Кемерово, пр.Октябрский, 103А</span>
 					    </div>
-					    <div class="col-md pr-4 d-flex topper align-items-center">
-					    	<div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
-						    <span class="text">https://www.instagram.com/madou_219/</span>
+                                    <a href="https://www.instagram.com/madou_219/">
+                                            <div class="col-md pr-4 d-flex topper align-items-center">
+					    	<div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><span class="icon-instagram"></span></div>
+						    <span class="text">#золотойключик</span>
 					    </div>
-					    <div class="col-md pr-4 d-flex topper align-items-center">
+                                    </a>
+                                    <a href="tel:+7 (3842) 53-56-90">
+                                            <div class="col-md pr-4 d-flex topper align-items-center">
 					    	<div class="icon bg-tertiary mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
-						    <span class="text">+ 1235 2355 98</span>
+						    <span class="text">+7 (3842) 53-56-90 </span>
 					    </div>
+                                    </a>
 				    </div>
 			    </div>
 		    </div>

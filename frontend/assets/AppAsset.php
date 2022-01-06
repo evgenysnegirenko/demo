@@ -15,7 +15,7 @@ class AppAsset extends AssetBundle
         'https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900',
         'https://fonts.googleapis.com/css?family=Fredericka+the+Great',
         'https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css',
-//        'css/open-iconic-bootstrap.min.css',
+        'css/open-iconic-bootstrap.min.css',
         'css/animate.css',
         'css/owl.carousel.min.css',
         'css/owl.theme.default.min.css',

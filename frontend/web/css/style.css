@@ -5231,11 +5231,13 @@ a.close.disabled {
 .align-text-top {
   vertical-align: text-top !important; }
 
+.bg-primary {
+  background: #81715E; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #0062cc !important; }
+  background-color: #81715E !important; }
 
 .bg-secondary {
     background-color: #6c757d !important; }
@@ -8410,8 +8412,7 @@ h1, h2, h3, h4, h5,
 .bg-white {
   background: #fff !important; }
 
-.bg-primary {
-  background: #81715E; }
+
 
 .bg-secondary {
   background: #fda638 !important; }
